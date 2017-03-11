@@ -1,0 +1,17 @@
+{
+  "name": "test-electron-python",
+  "version": "0.1.0",
+  "description": "test-electron-python",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mkgask",
+  "license": "MIT",
+  "dependencies": {
+    "request": "*",
+    "request-promise": "*",
+    "electron-prebuilt": "*"
+  }
+}
